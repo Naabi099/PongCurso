@@ -9,7 +9,6 @@
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"order":0,},
     {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},"order":1,},
     {"id":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"order":3,},
-    {"id":{"name":"obj_ballsnews","path":"objects/obj_ballsnews/obj_ballsnews.yy",},"order":3,},
     {"id":{"name":"scr_globalvar","path":"scripts/scr_globalvar/scr_globalvar.yy",},"order":0,},
     {"id":{"name":"snd_bounce","path":"sounds/snd_bounce/snd_bounce.yy",},"order":0,},
     {"id":{"name":"spr_botao2","path":"sprites/spr_botao2/spr_botao2.yy",},"order":1,},
